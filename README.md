@@ -1,5 +1,7 @@
 **CNN_HANDSIGN**
+
 CNN_HS_FK.ipynb---> Training and pre-processing of data
+
 game.ipynb ----> python games
 
 Technology used: Mediapipe and tensorflow
